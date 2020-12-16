@@ -18,4 +18,8 @@ public class NewMain {
        }
     }
     
+
+//Output
+
+//24 , 3, 1
     
